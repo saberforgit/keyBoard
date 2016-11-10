@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wangxf/cordova/mCordovaTs/platforms/keydemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccc91facb41872b4bcfd5ba89ec737233320d428">
+        <dex dex="/home/wangxf/cordova/mCordovaTs/platforms/keydemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b23a9459d8422cb2da17331bff7caf6eb456d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangxf/cordova/mCordovaTs/platforms/keydemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09ce121908a41f5404d147d29a98cd8a60a5084a">
+        <dex dex="/home/wangxf/cordova/mCordovaTs/platforms/keydemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2ac95bf29f2a208d723fbdc7c585de3d2dcdc5a5/classes.dex" />
+    </item>
+
+</items>

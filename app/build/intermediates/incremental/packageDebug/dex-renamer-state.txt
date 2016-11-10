@@ -1,0 +1,7 @@
+#Thu Nov 10 11:01:01 CST 2016
+base.0=/home/wangxf/cordova/mCordovaTs/platforms/keydemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b23a9459d8422cb2da17331bff7caf6eb456d6f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/wangxf/cordova/mCordovaTs/platforms/keydemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2ac95bf29f2a208d723fbdc7c585de3d2dcdc5a5/classes.dex
+base.1=/home/wangxf/cordova/mCordovaTs/platforms/keydemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2ac95bf29f2a208d723fbdc7c585de3d2dcdc5a5
+file.0=/home/wangxf/cordova/mCordovaTs/platforms/keydemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b23a9459d8422cb2da17331bff7caf6eb456d6f/classes.dex
